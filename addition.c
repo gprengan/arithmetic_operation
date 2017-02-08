@@ -74,6 +74,5 @@ int main(void){
         printf("%d",ans[i]);
     }
     printf("\n");
-
     return 0;
 }    
